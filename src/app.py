@@ -1,4 +1,4 @@
-!pip install -q gradio requests pydantic
+
 import json
 import os
 import re
